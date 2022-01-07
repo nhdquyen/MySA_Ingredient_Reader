@@ -8,7 +8,7 @@ Materials:
 * [Dataset](https://github.com/nhdquyen/MySA_Ingredient_Reader/tree/main/Dataset): includes skincare product dataset, ingredient dictionary, test list that records results from all test photos to analyze errors thus implement main function.
 * [Front product img](https://github.com/nhdquyen/MySA_Ingredient_Reader/tree/main/Front_product_img): test photos
 * [Notebook](https://github.com/nhdquyen/MySA_Ingredient_Reader/blob/main/notebook.ipynb): notebook/draft on Google Vision OCR, string match practices, building main function, testing, error analysis.
-* [Main](https://github.com/nhdquyen/MySA_Ingredient_Reader/blob/main/main.py): deploy to Streamlit.
+* [Main](https://github.com/nhdquyen/MySA_Ingredient_Reader/blob/main/main.py): put everthing together and deploy to Streamlit.
 
 
 
